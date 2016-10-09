@@ -1,0 +1,33 @@
+typography_spectrum: 0.3265973797803837
+color:
+  brandStrength: 0.8630041993342081
+  lightness: 0.9100281201555661
+  saturation: 0.441704145183713
+  rhythmicContrast: 0.12281478792180002
+  brandColors:
+    - '#F8F9FC'
+    - '#224FAA'
+    - '#A62626'
+    - '#3D588F'
+    - '#C7CAD1'
+github: true
+layout_spectrum: 0.2389237795322027
+analytics:
+  google: UA-85384082-1
+author:
+  name: ေက်းတမန္
+  email: info@kyaetaman.online
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/55ad461a-e130-4ce9-9ad3-8f92754eadb7.png
+name: Online Delivery Service
+title: Online ေက်းတမန္ - Delivery Service
+content: []
+description: 'Professional Delivery Service in Yangon, Myanmar.'
+purpose:
+  - type: external
+    url: >-
+      https://www.facebook.com/%E1%80%B1%E1%80%80%E1%80%BA%E1%80%B8%E1%80%90%E1%80%99%E1%80%94%E1%80%B9-Delivery-Service-1806339009589933/
+    label: Facebook
+  - type: contact
+    url: 'tel:09795312060'
+    label: Call Us
